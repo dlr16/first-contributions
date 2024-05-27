@@ -2072,6 +2072,7 @@ Jasmine
 -[ram,sam ]
 - [Haley Berger]
 - [Cameron Clyde]
+- Auzhanova Dilyara
 -[xaviProton]
 - [Juho Lee] (https://github.com/jxuho)
 - [janGithub122] (https://github.com/janGithub122)
